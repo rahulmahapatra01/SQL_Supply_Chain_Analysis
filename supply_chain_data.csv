@@ -1,0 +1,101 @@
+Product type,SKU,Price,available_quantity,sold_quantity,revenue_generated,Gender,Stock levels,fulfillment Lead times,Order quantities,Shipping times,Shipping carriers,Shipping costs,Supplier name,Location,supplier Lead times,Production volumes,Manufacturing lead time,Manufacturing costs,Inspection results,Transportation modes,Routes,Costs
+haircare,SKU0,70,55,802,8662,Non-binary,58,7,96,4,Ecom Express,3,Nivea,Mumbai,29,215,29,46,Pending,Road,Route B,188
+skincare,SKU1,15,95,736,7461,Female,53,30,37,2,DTDC,10,Nivea,Mumbai,23,517,30,34,Pending,Road,Route B,503
+haircare,SKU2,11,34,8,9578,Female,1,10,88,2,Ecom Express,8,Unilever,Mumbai,12,971,27,31,Pending,Air,Route C,142
+skincare,SKU3,61,68,83,7767,Non-binary,23,13,59,6,Blue Dart,2,Loreal,Kolkata,24,937,18,36,Fail,Rail,Route A,255
+skincare,SKU4,5,26,871,2687,Non-binary,5,3,56,8,DTDC,4,Unilever,Delhi,5,414,3,92,Fail,Air,Route A,923
+haircare,SKU5,2,87,147,2828,Non-binary,90,27,66,3,Ecom Express,4,P&G,Bangalore,10,104,17,57,Fail,Road,Route A,235
+skincare,SKU6,4,48,65,7823,Male,11,15,58,8,Blue Dart,4,Nivea,Kolkata,14,314,24,1,Pending,Sea,Route A,134
+cosmetics,SKU7,43,59,426,8496,Female,93,17,11,1,Ecom Express,2,P&G,Bangalore,22,564,1,99,Fail,Road,Route C,802
+cosmetics,SKU8,69,78,150,7517,Female,5,10,15,7,Blue Dart,3,P&G,Mumbai,13,769,8,11,Pending,Sea,Route B,506
+skincare,SKU9,64,35,980,4971,Female,14,27,83,1,DTDC,7,Johnson & Johnson,Chennai,29,963,23,48,Pending,Rail,Route B,996
+skincare,SKU10,16,11,996,2331,Non-binary,51,13,80,2,Blue Dart,9,Loreal,Kolkata,18,830,5,97,Pass,Road,Route B,806
+skincare,SKU11,91,95,960,6100,Female,46,23,60,1,DTDC,5,Johnson & Johnson,Kolkata,28,362,11,28,Pending,Air,Route A,127
+haircare,SKU12,71,41,336,2874,Female,100,30,85,4,DTDC,1,P&G,Kolkata,3,563,3,32,Fail,Road,Route B,403
+skincare,SKU13,16,5,249,4053,Male,80,8,48,9,DTDC,10,Loreal,Bangalore,23,173,10,98,Pending,Road,Route B,547
+skincare,SKU14,99,26,562,8654,Non-binary,54,29,78,5,Ecom Express,2,Unilever,Kolkata,25,558,14,6,Pending,Air,Route B,929
+skincare,SKU15,37,94,469,5442,Non-binary,9,8,69,7,Ecom Express,2,Unilever,Bangalore,14,580,7,97,Pass,Sea,Route B,128
+skincare,SKU16,8,74,280,6454,Female,2,5,78,1,Ecom Express,4,Unilever,Bangalore,3,399,21,77,Pass,Air,Route A,866
+cosmetics,SKU17,81,82,126,2629,Female,45,17,85,9,Blue Dart,4,Unilever,Chennai,7,453,16,48,Fail,Air,Route C,671
+haircare,SKU18,36,23,620,9365,Female,10,10,46,8,Blue Dart,4,Johnson & Johnson,Kolkata,18,374,17,27,Pending,Sea,Route A,593
+skincare,SKU19,51,100,187,2553,Female,48,11,94,3,DTDC,5,P&G,Chennai,20,694,16,82,Fail,Road,Route C,477
+skincare,SKU20,96,22,320,8128,Female,27,12,68,6,DTDC,9,Unilever,Chennai,29,309,6,66,Pass,Air,Route B,494
+cosmetics,SKU21,85,60,601,7087,Male,69,25,7,6,Ecom Express,6,Loreal,Chennai,19,791,4,62,Pending,Air,Route C,523
+haircare,SKU22,28,55,884,2391,Male,71,1,63,10,DTDC,10,P&G,Kolkata,22,780,28,50,Fail,Rail,Route C,206
+cosmetics,SKU23,4,30,391,8858,Male,84,5,29,7,DTDC,3,Loreal,Kolkata,11,568,29,99,Pending,Rail,Route A,196
+haircare,SKU24,4,32,209,9049,Male,4,26,2,8,Blue Dart,10,Johnson & Johnson,Bangalore,28,447,3,40,Pending,Air,Route A,759
+haircare,SKU25,40,73,142,2175,Male,82,11,52,3,Blue Dart,2,P&G,Kolkata,19,934,23,78,Pending,Road,Route B,459
+haircare,SKU26,97,9,353,3716,Male,59,16,48,4,Ecom Express,7,Johnson & Johnson,Bangalore,26,171,4,16,Pass,Rail,Route A,618
+cosmetics,SKU27,93,42,352,2686,Male,47,9,62,8,Blue Dart,7,Loreal,Mumbai,25,291,4,11,Fail,Sea,Route B,762
+cosmetics,SKU28,2,12,394,6117,Female,48,15,24,4,Ecom Express,10,Unilever,Mumbai,13,171,7,59,Fail,Air,Route A,123
+cosmetics,SKU29,63,3,253,8319,Female,45,5,67,7,Ecom Express,8,Unilever,Kolkata,16,329,7,39,Pass,Road,Route B,765
+haircare,SKU30,8,10,327,2766,Male,60,26,35,7,Ecom Express,9,P&G,Kolkata,27,806,30,52,Pending,Road,Route C,880
+skincare,SKU31,51,28,168,9655,Male,6,17,44,4,Ecom Express,3,Nivea,Chennai,24,461,8,60,Pending,Rail,Route C,609
+skincare,SKU32,79,43,781,9572,Male,89,13,64,4,Blue Dart,7,Nivea,Kolkata,30,737,7,30,Pass,Road,Route A,761
+cosmetics,SKU33,65,63,616,5150,Non-binary,4,17,95,9,Blue Dart,5,Loreal,Chennai,1,251,23,24,Fail,Sea,Route A,371
+skincare,SKU34,37,96,602,9062,Non-binary,1,26,21,7,DTDC,1,Unilever,Chennai,4,452,10,11,Pass,Road,Route B,510
+cosmetics,SKU35,85,11,449,6541,Female,42,27,85,8,Blue Dart,5,Unilever,Delhi,3,367,2,58,Pass,Sea,Route C,553
+skincare,SKU36,10,34,963,7573,Female,18,23,28,3,Ecom Express,2,Johnson & Johnson,Delhi,26,671,19,46,Fail,Air,Route C,404
+skincare,SKU37,23,5,963,2438,Female,25,8,21,9,DTDC,2,Nivea,Kolkata,24,867,15,34,Pending,Sea,Route A,184
+cosmetics,SKU38,52,75,705,9692,Non-binary,69,1,88,5,Ecom Express,9,Loreal,Mumbai,10,841,12,6,Pending,Air,Route B,340
+skincare,SKU39,19,26,176,1912,Female,78,29,34,3,DTDC,6,Johnson & Johnson,Kolkata,30,791,6,9,Fail,Air,Route B,654
+skincare,SKU40,81,97,933,5725,Female,90,20,39,8,Blue Dart,7,Unilever,Kolkata,18,793,1,88,Pending,Road,Route A,530
+skincare,SKU41,99,35,556,5521,Female,64,19,38,8,Ecom Express,6,P&G,Chennai,18,892,7,95,Fail,Sea,Route A,276
+skincare,SKU42,47,98,155,1840,Female,22,27,57,4,Blue Dart,8,Loreal,Bangalore,26,179,7,96,Fail,Road,Route A,636
+haircare,SKU43,12,6,598,5737,Non-binary,36,29,85,9,Ecom Express,4,Loreal,Mumbai,1,206,23,26,Pending,Air,Route A,716
+cosmetics,SKU44,51,34,919,7152,Female,13,19,72,6,Blue Dart,8,Johnson & Johnson,Delhi,7,834,18,23,Fail,Rail,Route A,610
+haircare,SKU45,34,1,24,5268,Male,93,7,52,6,Ecom Express,5,Johnson & Johnson,Chennai,25,794,25,66,Pass,Rail,Route A,495
+haircare,SKU46,27,75,859,2557,Non-binary,92,29,6,8,Ecom Express,4,Nivea,Chennai,18,870,23,77,Pending,Road,Route B,380
+skincare,SKU47,96,93,910,7089,Male,4,15,51,9,Ecom Express,9,Unilever,Kolkata,10,964,20,20,Pending,Rail,Route A,582
+haircare,SKU48,76,28,29,7397,Non-binary,30,16,9,3,Blue Dart,7,Johnson & Johnson,Mumbai,9,109,18,23,Fail,Rail,Route B,769
+cosmetics,SKU49,79,19,99,8002,Non-binary,97,24,9,6,Blue Dart,3,Loreal,Delhi,28,177,28,14,Pass,Rail,Route A,337
+cosmetics,SKU50,14,91,633,5911,Female,31,23,82,10,DTDC,6,Johnson & Johnson,Delhi,20,306,21,45,Fail,Rail,Route B,496
+haircare,SKU51,27,61,154,9866,Male,100,4,52,1,DTDC,5,Loreal,Bangalore,18,673,28,14,Pending,Road,Route A,695
+skincare,SKU52,98,1,820,9436,Male,64,11,11,1,Ecom Express,9,Unilever,Mumbai,10,727,27,9,Pending,Air,Route C,603
+skincare,SKU53,30,93,242,8232,Male,96,25,54,3,Ecom Express,1,Unilever,Delhi,1,631,17,83,Pending,Air,Route B,751
+haircare,SKU54,31,11,622,6088,Non-binary,33,22,61,3,Ecom Express,4,Unilever,Kolkata,26,497,29,30,Pass,Road,Route B,814
+haircare,SKU55,80,16,701,2926,Male,97,11,11,5,DTDC,5,Johnson & Johnson,Delhi,27,918,5,30,Fail,Sea,Route B,323
+skincare,SKU56,21,90,93,4767,Non-binary,25,23,83,5,Blue Dart,2,Unilever,Mumbai,24,826,28,13,Pass,Air,Route B,832
+haircare,SKU57,49,65,227,1606,Male,5,18,51,1,Ecom Express,9,Johnson & Johnson,Delhi,21,588,25,68,Pending,Rail,Route A,482
+skincare,SKU58,60,81,896,2021,Non-binary,10,5,44,7,DTDC,5,Nivea,Delhi,18,396,7,65,Fail,Road,Route B,110
+cosmetics,SKU59,64,30,484,1062,Non-binary,100,16,26,7,Ecom Express,7,Unilever,Kolkata,11,176,4,2,Fail,Air,Route A,313
+skincare,SKU60,17,16,380,8864,Female,41,27,72,8,Blue Dart,4,P&G,Mumbai,29,929,24,87,Fail,Rail,Route A,430
+haircare,SKU61,52,23,117,6886,Female,32,23,36,7,Blue Dart,9,P&G,Kolkata,14,480,12,79,Fail,Air,Route A,164
+cosmetics,SKU62,73,89,270,3900,Female,86,2,40,7,Blue Dart,7,Johnson & Johnson,Mumbai,13,751,14,21,Pass,Sea,Route C,321
+skincare,SKU63,13,55,246,4257,Non-binary,54,19,10,4,DTDC,2,Nivea,Bangalore,18,736,10,20,Pending,Sea,Route A,687
+skincare,SKU64,90,11,134,8459,Female,73,27,75,6,Blue Dart,5,Unilever,Delhi,17,328,6,9,Fail,Air,Route C,771
+skincare,SKU65,34,72,457,8355,Male,57,24,54,8,Blue Dart,7,Loreal,Kolkata,16,358,21,2,Fail,Rail,Route C,556
+skincare,SKU66,26,52,704,8368,Female,13,17,19,8,DTDC,2,Loreal,Kolkata,24,867,28,42,Fail,Road,Route A,394
+skincare,SKU67,88,16,513,9474,Female,12,9,71,9,Blue Dart,9,Unilever,Mumbai,10,198,11,7,Pass,Sea,Route C,169
+haircare,SKU68,38,29,163,3550,Non-binary,0,8,58,8,Ecom Express,1,Johnson & Johnson,Bangalore,2,375,18,97,Fail,Rail,Route A,300
+skincare,SKU69,55,62,511,1752,Non-binary,95,1,27,3,Ecom Express,10,P&G,Kolkata,9,862,7,78,Pending,Air,Route A,208
+haircare,SKU70,48,90,32,7015,Female,10,12,22,4,Ecom Express,6,Unilever,Bangalore,22,775,16,11,Pass,Road,Route C,183
+cosmetics,SKU71,6,14,637,8180,Female,76,2,26,6,DTDC,9,Johnson & Johnson,Bangalore,2,258,10,31,Pending,Road,Route A,405
+cosmetics,SKU72,90,88,478,2633,Non-binary,57,29,77,9,DTDC,7,Unilever,Bangalore,21,152,11,56,Pending,Rail,Route B,678
+cosmetics,SKU73,84,41,375,7911,Male,17,25,66,5,Ecom Express,2,P&G,Chennai,13,444,4,47,Fail,Road,Route A,866
+haircare,SKU74,3,64,904,5710,Female,41,6,1,5,DTDC,5,P&G,Delhi,1,919,9,81,Fail,Rail,Route A,342
+skincare,SKU75,93,29,106,1889,Non-binary,16,20,56,10,Blue Dart,2,Unilever,Chennai,25,759,11,48,Pass,Air,Route C,873
+haircare,SKU76,69,23,241,5328,Male,38,1,22,10,DTDC,7,Johnson & Johnson,Bangalore,25,985,24,64,Pending,Rail,Route A,997
+haircare,SKU77,57,14,359,2484,Male,96,28,57,4,Ecom Express,7,Unilever,Kolkata,26,334,5,43,Pass,Road,Route B,853
+haircare,SKU78,6,50,946,1292,Male,5,4,51,5,Ecom Express,8,Loreal,Mumbai,25,858,21,71,Pending,Sea,Route C,324
+haircare,SKU79,57,56,198,7889,Non-binary,31,25,20,1,Ecom Express,6,Nivea,Bangalore,5,228,12,58,Pending,Air,Route C,352
+skincare,SKU80,91,75,872,8652,Non-binary,39,14,41,2,Blue Dart,3,Nivea,Chennai,8,202,5,77,Fail,Sea,Route B,788
+haircare,SKU81,73,9,774,4384,Non-binary,48,6,8,5,Ecom Express,4,Nivea,Delhi,28,698,1,20,Pending,Rail,Route B,277
+skincare,SKU82,17,13,336,2943,Non-binary,42,19,72,1,DTDC,5,Johnson & Johnson,Mumbai,6,955,26,4,Pending,Road,Route C,590
+haircare,SKU83,69,82,663,2412,Non-binary,65,24,7,8,Ecom Express,5,Unilever,Bangalore,20,443,5,98,Fail,Road,Route A,683
+haircare,SKU84,89,99,618,2048,Non-binary,73,26,80,10,DTDC,8,Loreal,Chennai,24,589,22,34,Pass,Air,Route B,465
+cosmetics,SKU85,77,83,25,8685,Female,15,18,66,2,Blue Dart,8,Loreal,Chennai,4,211,2,70,Fail,Road,Route B,843
+skincare,SKU86,20,18,223,1230,Female,32,14,22,6,Ecom Express,1,Unilever,Mumbai,4,569,18,75,Pass,Rail,Route A,264
+haircare,SKU87,80,24,79,5134,Male,5,7,55,10,DTDC,7,Nivea,Chennai,27,523,17,29,Fail,Sea,Route B,879
+cosmetics,SKU88,75,58,737,9445,Male,60,18,85,7,DTDC,4,Johnson & Johnson,Mumbai,21,953,11,68,Pending,Sea,Route A,104
+cosmetics,SKU89,98,10,134,5925,Male,90,1,27,8,Ecom Express,10,Unilever,Kolkata,23,370,11,47,Pending,Rail,Route B,517
+skincare,SKU90,14,56,320,9593,Non-binary,66,18,96,7,Ecom Express,8,Nivea,Bangalore,8,585,8,86,Pass,Rail,Route B,990
+cosmetics,SKU91,62,90,916,1935,Male,98,22,85,7,Ecom Express,7,P&G,Delhi,5,207,28,40,Pending,Rail,Route B,997
+cosmetics,SKU92,48,44,276,2100,Male,90,25,10,8,Ecom Express,4,Johnson & Johnson,Mumbai,4,671,29,63,Pass,Rail,Route B,230
+haircare,SKU93,69,88,114,4531,Male,63,17,66,1,Blue Dart,7,P&G,Chennai,21,824,20,36,Fail,Air,Route A,824
+cosmetics,SKU94,3,97,987,7888,Male,77,26,72,9,Ecom Express,7,Johnson & Johnson,Delhi,12,908,14,60,Pass,Rail,Route B,847
+haircare,SKU95,78,65,672,7386,Male,15,14,26,9,Ecom Express,9,P&G,Mumbai,18,450,26,59,Pending,Air,Route A,779
+cosmetics,SKU96,24,29,324,7698,Non-binary,67,2,32,3,Blue Dart,5,Nivea,Mumbai,28,648,28,18,Pending,Road,Route A,189
+haircare,SKU97,4,56,62,4371,Male,46,19,4,9,DTDC,8,P&G,Mumbai,10,535,13,66,Fail,Road,Route A,540
+skincare,SKU98,20,43,913,8526,Female,53,1,27,7,Ecom Express,1,Loreal,Chennai,28,581,9,6,Pending,Rail,Route A,882
+haircare,SKU99,69,17,627,9185,Male,55,8,59,6,Ecom Express,1,Johnson & Johnson,Chennai,29,921,2,38,Fail,Rail,Route B,211
